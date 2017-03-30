@@ -1,6 +1,7 @@
 # for eclipse
-/.settings/
-/.project
+.settings/
+.project
+.classpath
 
 # for idea
 *.iml
